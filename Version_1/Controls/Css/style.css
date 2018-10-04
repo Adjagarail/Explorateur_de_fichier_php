@@ -1,0 +1,87 @@
+body {
+  padding-top: 10rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+.navigation
+{
+  background-color: #FFCD22!important;
+  padding: 12px;
+}
+.create
+{
+  background-image: url('../Images/create_folder.png');
+  width: 64px;
+  height: 64px;
+}
+.delete
+{
+  background-image: url('../Images/delete_folder.png');
+  width: 64px;
+  height: 64px;
+}
+.download
+{
+  background-image: url('../Images/download_folder.png');
+  width: 64px;
+  height: 64px;
+}
+.upload
+{
+  background-image: url('../Images/upload_folder.png');
+  width: 64px;
+  height: 64px;
+}
+.trash
+{
+  background-image: url('../Images/trash.png');
+  width: 64px;
+  height: 64px;
+}
+.file
+{
+  background-image: url('../Images/file.png');
+  width: 64px;
+  height: 64px;
+}
+.delete_file
+{
+  background-image: url('../Images/delete_file.png');
+  width: 64px;
+  height: 64px;
+}
+.upload_file
+{
+  background-image: url('../Images/upload_file.png');
+  width: 64px;
+  height: 64px;
+}
+.download_file
+{
+  background-image: url('../Images/download_file.png');
+  width: 64px;
+  height: 64px;
+}
+.mini_folder
+{
+  background-image: url('../Images/Mini/folder.png');
+  list-style-type:none;
+  text-decoration: none;
+  width: 128px;
+  height: 128px;
+}
+.mini_file
+{
+  background-image: url('../Images/Mini/php.png');
+  background-repeat: none;
+  list-style-type: none;
+  text-decoration: none;
+  width: 128px;
+  height: 128px;
+}
+.document
+{
+  padding: 5px;
+}
